@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **Restaurant Recommendation System** aims to leverage the large Yelp dataset to recommend restaurants based on user preferences, reviews, and business attributes. With the increasing demand for dining experiences, this system seeks to analyze user evaluations and offer personalized suggestions to help users make informed dining choices while offering insights for restaurant owners to improve their business.
+The **Restaurant Recommendation System** leverages the large Yelp dataset to recommend restaurants based on user preferences, reviews, and business attributes. With the increasing demand for dining experiences, this system analyzes user evaluations and offers personalized suggestions to help users make informed dining choices. It also provides insights for restaurant owners to improve their businesses.
 
 This system uses **Big Data** technologies to process large amounts of data from Yelp’s open dataset and builds a recommendation model based on user evaluations, business hours, food quality, service, and more.
 
@@ -57,74 +57,26 @@ This dataset provides a comprehensive sample to implement restaurant recommendat
 
 ---
 
-## ⚙️ Installation & Setup
+## 📱 Usage
 
-### 1. Clone the Repository
+- **Step 1**: Users input their preferences (e.g., preferred cuisine, rating, location).
+- **Step 2**: The backend processes the input and retrieves recommendations from the dataset.
+- **Step 3**: The frontend displays a list of restaurant recommendations based on the user's inputs.
+- **Step 4**: Users can explore restaurant details, including reviews, location, and available amenities.
 
-```bash
-git clone https://github.com/yourusername/restaurant-recommendation-system.git
-cd restaurant-recommendation-system
-2. Set Up Big Data Tools (Hadoop, Spark)
-Make sure you have Hadoop and Spark installed on your system. You can follow the official documentation to set them up:
 
-Hadoop Installation
-Spark Installation
-3. Install Backend Dependencies
-bash
-Copy
-Edit
-cd backend
-pip install -r requirements.txt
-4. Install Frontend Dependencies
-bash
-Copy
-Edit
-cd frontend
-npm install
-5. Run the Backend
-bash
-Copy
-Edit
-cd backend
-python app.py
-6. Run the Frontend
-bash
-Copy
-Edit
-cd frontend
-npm start
-📱 Usage
-Step 1: Users input their preferences (e.g., preferred cuisine, rating, location).
-Step 2: The backend processes the input and retrieves recommendations from the dataset.
-Step 3: The frontend displays a list of restaurant recommendations based on the user's inputs.
-Step 4: Users can explore restaurant details, including reviews, location, and available amenities.
-🎯 Project Goals
-Scalable Recommendation System: Build a recommendation system capable of handling large datasets.
-User Personalization: Provide recommendations based on individual user preferences.
-Business Insights: Help restaurant owners improve by understanding the aspects customers care about most (e.g., food, service).
-Real-Time Performance: Ensure quick recommendation generation even with massive data.
-⚡ Challenges
-Handling Large Datasets: The Yelp dataset is large, requiring efficient distributed processing.
-Recommendation Accuracy: Building an effective recommendation algorithm that balances food quality, service, and user preferences.
-Scalability: The system must scale efficiently with increasing amounts of user data and restaurant details.
-Real-time Processing: Ensuring quick recommendation generation even with massive data.
-📈 Future Enhancements
-Hybrid Recommendation: Combining collaborative and content-based filtering for better accuracy.
-Sentiment Analysis: Analyzing user reviews for sentiment to improve recommendations.
-Mobile App: Expanding the platform to a mobile app for on-the-go restaurant recommendations.
-Location-Based Recommendations: Using geographic data to suggest nearby restaurants.
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 🎯 Project Goals
 
-👨‍💻 Contributing
-If you'd like to contribute to this project, feel free to fork it, make your changes, and submit a pull request. Please make sure to follow these steps:
+- **Scalable Recommendation System**: Build a recommendation system capable of handling large datasets.
+- **User Personalization**: Provide recommendations based on individual user preferences.
+- **Business Insights**: Help restaurant owners improve by understanding the aspects customers care about most (e.g., food, service).
+- **Real-Time Performance**: Ensure quick recommendation generation even with massive data.
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new pull request.
-🙏 Acknowledgments
-Yelp for providing the dataset.
-Apache Hadoop and Spark for enabling distributed processing.
-Flask/Django and React.js for building the backend and frontend applications.
+
+## ⚡ Challenges
+
+1. **Handling Large Datasets**: The Yelp dataset is large, requiring efficient distributed processing.
+2. **Recommendation Accuracy**: Building an effective recommendation algorithm that balances food quality, service, and user preferences.
+3. **Scalability**: The system must scale efficiently with increasing amounts of user data and restaurant details.
+4. **Real-time Processing**: Ensuring quick recommendation generation even with massive data.
+
