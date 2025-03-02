@@ -68,14 +68,14 @@ This dataset provides a comprehensive sample to implement restaurant recommendat
 
 ## 📸 Work Samples
 
-### 🔹 Screenshot 1: Login Page
+### 🔹 Screenshot 1: Ratings for Restaurants
 ![Login Page](https://github.com/kiran98118/Yelp-Recommendation-System/blob/5f03e0b697e64ae211c3f8321cf0660bf00583d4/Images/Screen%20Shot%202025-03-02%20at%204.50.51%20PM.png?raw=true)
 
-### 🔹 Screenshot 2: Dashboard
-![Login Page](https://github.com/kiran98118/Yelp-Recommendation-System/blob/5f03e0b697e64ae211c3f8321cf0660bf00583d4/Images/Screen%20Shot%202025-03-02%20at%204.52.00%20PM.png?raw=true)
+### 🔹 Screenshot 2: State vs avg Rating
+![Login Page](https://github.com/kiran98118/Yelp-Recommendation-System/blob/e903bc0a44037077872763bb1697b5fe7a5c8e30/Images/Screen%20Shot%202025-03-02%20at%205.10.55%20PM.png?raw=true)
 
 
-### 🔹 Screenshot 1: Login Page
+### 🔹 Screenshot 3: Avg word count for each star rating
 ![Login Page](https://github.com/kiran98118/Yelp-Recommendation-System/blob/897de75eacdf11daaec70ca8a5608525368b4b6e/Images/Screen%20Shot%202025-03-02%20at%205.10.55%20PM.png?raw=true)
 
 
