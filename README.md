@@ -69,10 +69,10 @@ This dataset provides a comprehensive sample to implement restaurant recommendat
 ## 📸 Work Samples
 
 ### 🔹 Screenshot 1: Login Page
-![Login Page]([https://github.com/your-username/your-repository-name/blob/main/images/login-page.png](https://github.com/kiran98118/Yelp-Recommendation-System/blob/d3b16048f0af8de074dcbe722b62bbc931fddf49/Images/Screen%20Shot%202025-03-02%20at%204.50.51%20PM.png)?raw=true)
+![Login Page](https://github.com/kiran98118/Yelp-Recommendation-System/blob/5f03e0b697e64ae211c3f8321cf0660bf00583d4/Images/Screen%20Shot%202025-03-02%20at%204.50.51%20PM.png?raw=true)
 
 ### 🔹 Screenshot 2: Dashboard
-![Dashboard]([https://github.com/your-username/your-repository-name/blob/main/images/dashboard.png](https://github.com/kiran98118/Yelp-Recommendation-System/blob/d3b16048f0af8de074dcbe722b62bbc931fddf49/Images/Screen%20Shot%202025-03-02%20at%204.52.00%20PM.png)?raw=true)
+![Login Page](https://github.com/kiran98118/Yelp-Recommendation-System/blob/5f03e0b697e64ae211c3f8321cf0660bf00583d4/Images/Screen%20Shot%202025-03-02%20at%204.52.00%20PM.png?raw=true)
 
 
 ### 🔹 Screenshot 1: Login Page
